@@ -51,7 +51,7 @@ Shortfall: -$5,914.66
 
 Next month (July) target: $183,134.47
 <H1>🛍️ Top-Selling Items:</H1>
-<img width="450" height="286" alt="Screenshot 2025-09-14 213647" src="https://github.com/user-attachments/assets/a22aab73-dd8d-4ad4-882a-08298ad37ca0" />
+<img width="450" height="286" alt="Screenshot 2025-09-14 213647" src="https://github.com/AvishkarK07/StarBucks_Coffee_Sales/blob/main/folder/Top%2010%20product.png" />
 
 By Revenue: Product Revenue Sustainably Grown Organic Lg $21,151.75 Dark Chocolate Lg $21,105.68 Latte Rg $19,112.25 Cappuccino Lg $17,599.35 By Quantity Sold: Product Units Sold Revenue Morning Sunrise Chai 158 $1,596.00 Serenity Green Tea 163 $1,584.00 English Breakfast 161 $1,533.00
 <H1>✅ Summary</H1>
