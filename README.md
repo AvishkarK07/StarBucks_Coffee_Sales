@@ -37,7 +37,7 @@ Wednesday (14.29%)
 
 Lowest traffic: Sunday (13.75%)
 <H1>📈 Revenue by Month:</H1>
-<img width="2565" height="1281" alt="revenue" src="https://github.com/user-attachments/assets/c8311f0d-3bdd-4a74-813f-afe745292dc8" />
+<img width="2565" height="1281" alt="revenue" src="https://github.com/AvishkarK07/StarBucks_Coffee_Sales/blob/main/folder/Revanue%20by%20month.png" />
 
 Shows monthly revenue growth from January to June:
 
