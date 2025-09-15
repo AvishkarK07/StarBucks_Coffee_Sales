@@ -23,7 +23,7 @@ Displays the percentage of total transactions by hour (6 AM to 8 PM).
 
 Peak hours: 8 AM to 10 AM, with 9 AM being the highest at 12.44% of daily transactions.
 <H1>📅 Weekly Pattern:</H1>
-<img width="2313" height="1518" alt="weekly pattern" src="https://github.com/user-attachments/assets/588ab7fd-71ed-49fa-bc4c-bbdc0df8bb44" />
+<img width="2313" height="1518" alt="weekly pattern" src="https://github.com/AvishkarK07/StarBucks_Coffee_Sales/blob/main/folder/weekly%20pattern.png" />
 
 Distribution of transactions across the week.
 
